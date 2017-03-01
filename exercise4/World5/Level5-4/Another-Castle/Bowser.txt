@@ -1,5 +1,6 @@
 To defeat Bowser:
 Create a file called "Throw-Axe.txt"
+Change the permissions on Bowser.txt to 766
 Delete Bridge.txt
 Delete Bowser.txt
 Trivial? Yes, but think about how long this would have taken if you were playing the game.
